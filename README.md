@@ -1,4 +1,4 @@
-# Forensic_Gunshot_CLIP: Comparing ResNet50 and CLIP in Forensic Pathology
+# Comparing ResNet50 and CLIP in Forensic Pathology
 
 ## 🩺 1. Problem Definition & Objectives
 Identifying the difference between **Entrance** and **Exit** gunshot wounds is a critical task in forensic pathology for reconstructing shooting incidents. This project explores whether deep learning models can assist pathologists in objectively distinguishing these wounds based on morphology.
