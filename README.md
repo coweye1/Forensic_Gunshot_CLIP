@@ -36,7 +36,7 @@ ResNet50 demonstrated that capturing **local features** is paramount in forensic
 ## 🔍 5. Explainable AI (XAI): Aligned Saliency Maps
 To validate the model's logic, I implemented **Aligned Attention Maps** to ensure the model focuses on the actual wound site rather than background noise.
 
-![Aligned Attention Map](Aligned%20Attention%20Map-linear%20probe.png)
+![Aligned Attention Map](Aligned%20Attention%20Map.png)
 
 * **Insight:** While ResNet50 focuses on pathological markers, CLIP's attention often shifts toward non-pathological global contexts (e.g., skin texture, hair), explaining its relative underperformance in this niche domain.
 
